@@ -1,0 +1,315 @@
+*{
+	padding:0;
+	margin:0;
+}
+.a{
+	position: fixed;
+}
+.header{
+	height:25px;
+	width:100%;
+	line-height: 25px;
+	background-color: black;
+	
+	
+	
+}
+.h1{
+	font-size: 12px;
+	color: #ffffff;
+	text-align: center;
+	font-family: serif;
+	
+
+}
+.menu{
+	margin-left: 650px;
+	margin-top: -44px;
+}
+.menu a{
+			color: black;
+            font-size: 14px;
+            text-decoration: none;
+            margin: 6px;
+} 
+           
+.header1{
+	height:85px;
+	width:100%;
+	background:#ffffff; 
+	position: fixed;
+
+}
+.logo{
+	width: 145px;
+    margin-top: 20px;
+    margin-left: 103px;
+}
+.banner{
+	width:100%;
+    height:700px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/Faded_Mountain_Hike_with_White_Text_Nature_Desktop_Wallpaper-4_c01a2e34-c0f3-4af8-ba76-b569e372c786_2048x.jpg?v=1612434570");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.line1{
+	width:100%;
+	height: 550px;
+	margin-top: 34px;
+	float:left;
+
+}
+.fline1{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	font-weight: normal;
+	line-height: 550px;
+}
+.line11{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/2_afef9b3b-8390-4fb2-8e7e-0c193ab5ab3e_2048x.png?v=1598108928");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 160px;
+
+}
+.line12{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/1_85d62396-22fb-4c0e-9972-94cf6254c03c_2048x.png?v=1598108905");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 26px;
+
+}
+.line2{
+	width:100%;
+	height: 550px;
+	margin-top: 34px;
+	float:left;
+
+}
+.line21{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/10_d76fa6bd-e7ec-4421-99a5-0865737e3154_2048x.jpg?v=1598425100");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 160px;
+
+}
+.line22{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/11_f87594f3-bd4c-46c2-9036-e1846173a87f_2048x.jpg?v=1598425134");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 26px;
+
+}
+.line3{
+	width:100%;
+	height: 550px;
+	margin-top: 34px;
+	float:left;
+
+}
+.line31{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/12_aac9c8bc-a51b-4b19-88e6-f0039cad3fd7_2048x.jpg?v=1598425159");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 160px;
+
+}
+.line32{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/13_edbf1d05-ffac-4766-99ae-dd9fc9c73d1a_2048x.jpg?v=1598425195");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 26px;
+
+}
+.line4{
+	width:100%;
+	height: 550px;
+	margin-top: 34px;
+	float:left;
+
+}
+.line41{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/14_d6eea7c7-6439-41e9-bedd-8d03c51216dd_2048x.jpg?v=1598425233");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 160px;
+
+}
+.line42{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/7_9fbd308d-432c-42a6-ac11-2969d99fa647_2048x.png?v=1598425611");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 26px;
+
+}
+.banner2{
+	width:100%;
+    height:1800px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/tripmachine_02f85dce-26d8-46c7-8dc7-e28a43d4de50_2048x.jpg?v=1598108328");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 2391px;
+
+}
+
+.line5{
+	width:100%;
+	height: 550px;
+	margin-top: 34px;
+	float:left;
+
+}
+.line51{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/3_d65a36ed-55dc-4b1a-964c-89571aa8f836_2048x.png?v=1598425976");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 160px;
+
+}
+.line52{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/4_e6251416-4f76-4ec8-b956-b79e81787193_2048x.png?v=1598425878");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 26px;
+
+}
+.line6{
+	width:100%;
+	height: 550px;
+	margin-top: 34px;
+	float:left;
+
+}
+.line61{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/5_b4a2484e-49e3-4ad4-aed7-f449324cf30f_2048x.png?v=1598425901");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 160px;
+
+}
+.line62{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/6_f3164762-bb05-4acc-bb04-1fa0b2f4befe_2048x.png?v=1598425929");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 26px;
+
+}
+
+.line7{
+	width:100%;
+	height: 550px;
+	margin-top: 34px;
+	float:left;
+
+}
+.line71{
+	width:500px;
+	height:550px;
+	background:url("https://cdn.shopify.com/s/files/1/0907/2228/files/8_6011f50f-b2c1-40c1-8f7a-c9319c937417_2048x.png?v=1598425949");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	float:left;
+	margin-left: 160px;
+}
+.foot{
+	margin-top: 1805px;
+	background: black;
+	height: 250px;
+	width: 100%;
+
+}	
+.f1{
+	background: #ffffff;
+	height: 500px;
+	width: 100%;
+	
+}
+.foot1{
+	color: white;
+	margin-top: 0px;
+	text-align: center;
+	font-weight: bold;
+
+}
+input{
+      height: 30px;
+      width: 200px;
+}
+button{
+	color: #4a4848
+	width:100px;
+	height: 30px;
+}
+.f2{
+	height: 250px;
+	width: 270px;
+	
+	float: left;
+	margin-left: 100px;
+	margin-top: 63px;
+	
+}
+.f3{
+	height: 300px;
+	width: 500px;
+	
+	float: left;
+	margin-left: 0px;
+	margin-top: 63px;
+	
+
+}

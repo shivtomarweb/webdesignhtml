@@ -1,0 +1,27 @@
+*{
+	padding:0;
+	margin:0;
+}
+.navbar{
+	height:100px;
+	width:100%;
+	background:#1ebea5;
+}
+.img{
+	line-height: 100px;
+
+}
+.menu{
+	line-height: 100px;
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    
+}
+a{
+	text-decoration: none;
+	font-size: 30px
+}
+a:hover{
+	color:red;
+}
